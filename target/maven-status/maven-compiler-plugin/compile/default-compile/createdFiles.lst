@@ -1,0 +1,5 @@
+com\ucc\vehiculosapi\controller\VehiculoController.class
+com\ucc\vehiculosapi\repository\VehiculoRepository.class
+com\ucc\vehiculosapi\model\Vehiculo.class
+com\ucc\vehiculosapi\service\VehiculoService.class
+com\ucc\vehiculosapi\VehiculosApiApplication.class
